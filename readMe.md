@@ -7,5 +7,5 @@ Statistics according to my repositories
 ![Misterjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Misterjo&count_private=true&show_icons=true&theme=tokyonight)
 
 ## Languages
-Languages in my public repositories
+Languages in my public repositories</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Misterjo&&layout=compact&theme=tokyonight)](#)

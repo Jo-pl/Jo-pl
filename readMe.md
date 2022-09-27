@@ -1,5 +1,5 @@
 <h1 align = "center"> Misterjo</h1>
-<h3 align = "center">Software engineer student and part time meme</h3>
+<h3 align = "center">Software engineer student</h3>
 
 ## Stats
 Statistics according to my repositories
